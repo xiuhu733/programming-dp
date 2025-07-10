@@ -18,3 +18,5 @@ chapters:
 - file: ch14
 - file: ch15
 - file: bibliography
+- file: license
+  title: License

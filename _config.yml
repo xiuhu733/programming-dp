@@ -1,8 +1,15 @@
 # Book settings
 title: Programming Differential Privacy
 author: Joseph P. Near and Chiké Abuah
-copyright: "2024"
+copyright: "© 2025 Joseph P. Near and Chiké Abuah"
+description: >
+  A practical introduction to programming differential privacy, with a focus on
+  the Python programming language.
+language: en
 logo: logo.png
+license:
+  name: "CC BY-NC-SA 4.0"
+  url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 execute:
   timeout: -1
