@@ -3,21 +3,21 @@ root: cover
 chapters:
 - file: front
 - file: intro
-- file: ch1
-- file: ch2
-- file: ch3
-- file: ch4
-- file: ch5
-- file: ch6
-- file: ch7
-- file: ch8
-- file: ch9
-- file: ch10
-- file: ch11
-- file: ch12
-- file: ch13
-- file: ch14
-- file: ch15
+- file: chapter1
+- file: chapter2
+- file: chapter3
+- file: chapter4
+- file: chapter5
+- file: chapter6
+- file: chapter7
+- file: chapter8
+- file: chapter9
+- file: chapter10
+- file: chapter11
+- file: chapter12
+- file: chapter13
+- file: chapter14
+- file: chapter15
 - file: bibliography
 - file: license
   title: License
