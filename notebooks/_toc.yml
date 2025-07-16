@@ -19,6 +19,6 @@ chapters:
 - file: chapter14
 - file: chapter15
 - file: further
-- file: bibliography
 - file: license
   title: License
+- file: bibliography
