@@ -1,6 +1,8 @@
 format: jb-book
 root: cover
 chapters:
+- file: front
+  title: Front Matter
 - file: intro
 - file: ch1
 - file: ch2
