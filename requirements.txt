@@ -1,7 +1,9 @@
-jupyter-book==0.15.1
+jupyter-book==1.0.4
 matplotlib
 numpy
 pandas
 pydata-sphinx-theme>=0.13.3
-sphinx==5.0.2
+sphinx==7.0.1
+sphinxcontrib-bibtex==2.6.5
 sphinx-proof
+docutils~=0.20
