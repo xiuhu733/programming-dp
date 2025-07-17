@@ -7,3 +7,4 @@ sphinx==7.0.1
 sphinxcontrib-bibtex==2.6.5
 sphinx-proof
 docutils~=0.20
+mplfonts
